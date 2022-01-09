@@ -1,0 +1,27 @@
+.navbarBG{
+    background-color: #111827;
+}
+
+.Search{
+    background-color: #3f5a943b;
+    border: 0px solid;
+    border-radius: 8px;
+}
+
+.gradient-custom{
+    background: linear-gradient(to right, rgb(42, 40, 44), rgb(139, 151, 172))
+}
+.footer{
+    height: 60px;
+}
+.body{
+    margin-bottom: 60px;
+}
+.homeBG{
+    background-color: #ebebeb;
+}
+.profilePicture{
+    width:30px;
+    height:30px;
+    border-radius:30px;
+}
